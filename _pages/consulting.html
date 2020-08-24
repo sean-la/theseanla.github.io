@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Statistical Consulting"
+permalink: /consulting/
+author_profile: true
+---
+
+{% include base_path %}
+<br>
+I provide statistical consulting services through the UBC <a href="https://asda.stat.ubc.ca">Applied Statistics and Data Science group</a>.
+<br>
+Email me if you're interested in working with me.
+
+<h2><u>Portfolio</u></h2>
+{% for post in site.consulting reversed %}
+  {% include archive-single-consulting.html %}
+{% endfor %}
