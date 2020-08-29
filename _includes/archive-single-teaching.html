@@ -26,7 +26,7 @@
       </div>
     {% endif %}
     <h3 class="archive__item-title" itemprop="headline">{{ title }}</h3>
-    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i>{{ post.date | date: '%B %Y' }}</p>{% endif %}
+    {% if post.date and post.date_end %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i>{{ post.date | date: '%B %Y' }} - {{ post.date_end | date: '%B %Y' }}</p>{% endif %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.type }}, <i>{{ post.venue }}</i></p> 
   </article>
 </div>
