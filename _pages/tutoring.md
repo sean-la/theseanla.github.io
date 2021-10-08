@@ -53,4 +53,4 @@ The following is a list of courses at **the University of British Columbia** tha
 | 225  |      |      |
 | 319  |      |      |
 
-If you don't see your course in the above list, I might still be able to tutor you. Email me and we can discuss.
+If you don't see your course in the above lists, I might still be able to tutor you. Email me and we can discuss.
