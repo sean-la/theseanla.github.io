@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Tutoring"
+permalink: /tutoring/
+author_profile: true
+---
+
 I offer tutoring services at competitive rates for the following topics:
 - **mathematics**: precalculus, calculus, discrete mathematics, linear algebra, ordinary differential equations, real analysis;
 - **statistics**: elementary statistics, regression analysis, design and analysis of experiments, statistical theory, time series and forecasting, Bayesian statistics, R programming, statistical learning;
