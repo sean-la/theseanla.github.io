@@ -11,15 +11,15 @@ main:
 
   - title: "Software"
     url: /software/
-        
-  - title: "Tutoring"
-    url: /tutoring/
 
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+    
+  - title: "Tutoring"
+    url: /tutoring/
     
 #  - title: "Portfolio"
 #    url: /portfolio/
