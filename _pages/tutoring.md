@@ -30,4 +30,27 @@ The following is a list of courses at **Simon Fraser University** that I can tut
 | 251  |      | 350  |      |
 | 260  |      | 460  |      |
 
+The following is a list of courses at **the University of British Columbia** that I can tutor for:
+
+| MATH | CPSC | STAT |
+| ---- | ---- | ---- |
+| 100  | 103  | 200  |
+| 101  | 107  | 201  |
+| 102  | 110  | 203  |
+| 103  | 121  | 251  | 
+| 104  | 210  | 300  |
+| 105  | 221  | 301  |
+| 110  | 320  | 305  |
+| 120  | 322  | 306  | 
+| 121  | 330  | 404  |
+| 180  | 340  | 443  |
+| 184  | 420  | 460  | 
+| 200  |      |      |
+| 215  |      |      | 
+| 217  |      |      | 
+| 220  |      |      |
+| 221  |      |      |
+| 225  |      |      |
+| 319  |      |      |
+
 If you don't see your course in the above list, I might still be able to tutor you. Email me and we can discuss.
