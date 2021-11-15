@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a data scientist at [Alida](www.alida.com).
+I am a data scientist at [Alida](https://www.alida.com).
 
 Previously, I was an M.Sc. student in the [Department of Statistics](https://www.stat.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/), where I performed research in Bayesian nonparametrics under the supervision of [Benjamin Bloem-Reddy](https://www.stat.ubc.ca/~benbr/) and [Alexandre Bouchard-C&ocirc;t&eacute;](https://www.stat.ubc.ca/~bouchard/index.html).
 
